@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "barberClient2",
+    "slug": "barberClient2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.alex1807.barberClient2"
+    }
+  },
+  "name": "barberClient2"
+}
